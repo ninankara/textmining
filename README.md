@@ -20,6 +20,11 @@ This program is developed using Python and KoNLPy as text mining library.
 + Install [KoNLPy](http://konlpy.org/en/latest/install/)
 + Install related libraries (matplotlib, gensim, nltk)
 
+## Source Code Description
++ ``joongang.py`` - web scrapping
++ ``morph.py`` - morphing code, such as word2vec
++ ``joongang.txt`` - result file from scrapping
+
 ## Results
 Following is the result of the most similar word to 금융 or finance word in Korean
 ```
